@@ -119,7 +119,7 @@ If **4 consecutive failures occur**, the script will:
 
 ---
 
-# 📜 License
+# 📜 License test-yolo
 
 MIT License © 2026 Amit Das
 
